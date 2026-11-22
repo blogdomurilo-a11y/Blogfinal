@@ -3,6 +3,8 @@ title: Filosofia das coisas simples
 subtitle: Por que pensadores gigantes escreveram frases tão fofinhas sobre amizade.
 category: Reflexão
 date: 2026-11-22
+cover: img/escola-de-atenas.jpg
+cover_alt: Detalhe do afresco A Escola de Atenas, de Rafael, com Platão e Aristóteles conversando
 ---
 Acho interessante o fato de que filósofos conceituados, moldadores do pensamento humano e abordadores de assuntos complexos possuem algumas máximas que me soam tão fofinhas. A exemplo de Francis Bacon, chanceler da Inglaterra e talvez o grande fundador do pensamento científico moderno, o mesmo pensador brilhante escreveu a seguinte frase: “A amizade duplica as alegrias e divide as tristezas.” A encontrei em um site de máximas e fiquei surpreso ao descobrir que lhe é atribuída. Bacon a escreveu em um de seus ensaios cujo nome é "Da Amizade" (Of Friendship) em 1612, tanto tempo atrás que fazia apenas 6 anos que a Austrália fora descoberta. Do mesmo modo, já li sobre a amizade em Aristóteles, curiosamente, também muito importante para a ciência, muito mais antigo e com máximas que soam tão românticas quanto, como: “Amizade é uma alma que habita dois corpos”.
 
