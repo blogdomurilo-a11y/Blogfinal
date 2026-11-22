@@ -1,0 +1,24 @@
+/* ==========================================================
+   TOKENS DO TEMA. Mude só este arquivo para redesenhar o site.
+   As ilustrações (js/art.js) também usam estas cores.
+   ========================================================== */
+:root {
+  --bg:       #fdf8ea;  /* papel */
+  --surface:  #fffcf2;  /* cards */
+  --ink:      #0b3a8c;  /* azul cobalto: texto, linhas, ilustrações */
+  --ink-soft: #5f7fb8;  /* azul claro: textos secundários */
+  --on-ink:   #fdf8ea;  /* texto sobre azul */
+
+  --font-display: "Instrument Serif", Georgia, serif;
+  --font-body:    "Hanken Grotesk", system-ui, sans-serif;
+
+  --fs-hero: clamp(3rem, 8vw, 6.5rem);
+  --fs-h2:   1.9rem;
+  --fs-body: 1.0625rem;
+  --fs-small: .82rem;
+
+  --maxw: 1200px;
+  --gap:  clamp(1rem, 2.5vw, 2rem);
+  --line: 1px solid var(--ink);
+  --node: 9px;           /* quadradinhos nos cruzamentos das linhas; 0 remove */
+}

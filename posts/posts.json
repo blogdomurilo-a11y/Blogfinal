@@ -1,0 +1,30 @@
+[
+  {
+    "slug": "bem-vindo",
+    "title": "Bem-vindo ao caderno",
+    "subtitle": "Como este blog funciona e onde mexer para deixá-lo do seu jeito.",
+    "category": "Começo",
+    "date": "2026-11-22"
+  },
+  {
+    "slug": "filosofia-das-coisas-simples",
+    "title": "Filosofia das coisas simples",
+    "subtitle": "Por que pensadores gigantes escreveram frases tão fofinhas sobre amizade.",
+    "category": "Reflexão",
+    "date": "2026-11-22"
+  },
+  {
+    "slug": "mapas-e-camadas",
+    "title": "Mapas, camadas e o tempo",
+    "subtitle": "Notas sobre como contar a formação de um território com camadas.",
+    "category": "Pesquisa",
+    "date": "2026-11-15"
+  },
+  {
+    "slug": "processo-criativo",
+    "title": "Rascunhos do processo",
+    "subtitle": "O que sobra de uma ideia depois de três versões.",
+    "category": "Processo",
+    "date": "2026-11-08"
+  }
+]

@@ -1,0 +1,15 @@
+---
+title: Filosofia das coisas simples
+subtitle: Por que pensadores gigantes escreveram frases tão fofinhas sobre amizade.
+category: Reflexão
+date: 2026-11-22
+---
+Acho interessante o fato de que filósofos conceituados, moldadores do pensamento humano e abordadores de assuntos complexos possuem algumas máximas que me soam tão fofinhas. A exemplo de Francis Bacon, chanceler da Inglaterra e talvez o grande fundador do pensamento científico moderno, o mesmo pensador brilhante escreveu a seguinte frase: “A amizade duplica as alegrias e divide as tristezas.” A encontrei em um site de máximas e fiquei surpreso ao descobrir que lhe é atribuída. Bacon a escreveu em um de seus ensaios cujo nome é "Da Amizade" (Of Friendship) em 1612, tanto tempo atrás que fazia apenas 6 anos que a Austrália fora descoberta. Do mesmo modo, já li sobre a amizade em Aristóteles, curiosamente, também muito importante para a ciência, muito mais antigo e com máximas que soam tão românticas quanto, como: “Amizade é uma alma que habita dois corpos”.
+
+Não estou dizendo que as sentenças em si são bobinhas — pelo contrário —, são carregadas de significado se analisadas mais profundamente dentro de seus contextos, mas ela contrasta com nossa concepção de que pessoas inteligentes e pragmáticas não seriam tão apegadas às relações simples, como as de amizade. Mesmo que Bacon e Aristóteles estivessem depreendendo da amizade dentro de um ensaio filosófico, não sai da minha cabeça que eles estão falando de um conceito que não há quem não conheça e que é abordado em obras extremamente simples, como em desenhos animados.
+
+Gosto de filosofia pois vejo no pensamento de épocas bem diferentes das minhas muitas semelhanças. Assim como Aristóteles, que viveu há 2300 anos, eu, Murilo, também penso sobre a amizade e tenho amigos. Eu não sei em que momento a humanidade descartou a sensibilidade como virtude (se é que já teve), mas pensar e discutir sobre as coisas mais simples de nosso cotidiano que envolvem o amor é, para mim, essencial para o ser humano. A Arte pode cumprir esse papel, mas poucos discutem a Arte em si.
+
+Ontem, enquanto voltava para casa no transporte escolar, tive uma conversa bastante conceitual com os que são hoje dois dos meus melhores amigos, o Pedro e o Gabriel (Grande abraço para eles!). É difícil descrever aqui a conversa, pois ela foi, além de extensa, muito intensa, mas talvez seja possível dar uma ideia de como ela começa e como ela termina: Ela inicia com o Gabriel levantando perguntas sobre tolerância intercultural e termina com uma conversa sórdida, mas muito crível, sobre desamparo existencial — sobre como nossas famílias, que presenciaram nossas vidas, vão deixar de existir em algum momento; ao final, sinalizamos o valor que damos às nossas amizades, de certa forma amparando a existência um do outro.
+
+Nós não estávamos em uma escola dialética, mas tivemos a oportunidade de fundamentar um conceito em comum apenas para nós: a importância que temos um para o outro. Podemos ser assim, mutuamente, as testemunhas de nossas vidas. Algo que soa muito fofinho, mas muito necessário.
